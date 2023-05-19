@@ -1,6 +1,6 @@
-# Note Taking App
+# Note Taking App with Google Drive Synchronization
 
-The Note Taking App is a simple application for creating, editing, and deleting notes.
+The Note Taking App is a simple application for creating, editing, and deleting notes. It includes a synchronization feature that allows you to backup and sync your notes to Google Drive.
 
 ## Features
 
